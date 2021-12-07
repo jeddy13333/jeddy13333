@@ -1,4 +1,4 @@
-- Hi, I’m @jeddy13333
+- Hi, I’m Jerrod
 - We live in such amazing and wonderous times, technology is at levels of what I thought
   would only be possible in SciFi movies. I have been inspired to document my journey through learning;
   coding, hacking, hardware...
